@@ -1,4 +1,0 @@
-BEGIN
-    message;
-END;
-/
